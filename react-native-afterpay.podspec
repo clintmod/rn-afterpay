@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => "12.0" }
-  s.source       = { :git => "https://github.com/afterpay/sdk-ios.git", :tag => "5.3.0" }
+  s.source       = { :git => "https://github.levi-site.com/LSCO/rn-afterpay.git", :tag => "5.3.0" }
 
   
   s.source_files = "ios/**/*.{h,m,mm,swift}"

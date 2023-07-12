@@ -33,12 +33,12 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/arundascts/react-native-afterpay",
-  "author": "Arun das",
+  "repository": "https://github.levi-site.com/LSCO/rn-afterpay.git",
+  "author": "Levi Straus",
   "bugs": {
-    "url": "https://github.com/arundascts/react-native-afterpay/issues"
+    "url": "https://github.levi-site.com/LSCO/issues"
   },
-  "homepage": "https://github.com/arundascts/react-native-afterpay#readme",
+  "homepage": "https://github.levi-site.com/LSCO/#readme",
   "dependencies": {
     "react-native-webview": "^10.10.2"
   },
